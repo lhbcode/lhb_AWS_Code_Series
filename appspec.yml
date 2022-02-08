@@ -1,0 +1,7 @@
+version: 0.0
+os: linux
+files:
+  - source: /index.html
+    destination: /home/bitnami/stack/nginx/html
+
+
