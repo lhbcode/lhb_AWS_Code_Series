@@ -1,3 +1,9 @@
+# AWS CodeSerise 구성 내용입니다.
+
+1. 
+
+
+
 # my-project
 
 ## Project setup
