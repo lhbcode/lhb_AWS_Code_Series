@@ -1,8 +1,10 @@
 # AWS Code Serise 구성 내용입니다.
 
-AWS Code Serise를 통해 특정 서버에 배포 , 빌드 내용은 appsepc.yml에 정의 , appspec.yml 에 정의된 파이프 라인에 따라 
+AWS Code Serise를 통해 특정 서버에 배포 
 
-빌드 및 배포 실행 
+빌드 내용은 appsepc.yml에 정의 
+
+appspec.yml 에 정의된 파이프 라인에 따라 빌드 및 배포 실행 
 
 1. Vue.js 테스트 파일 
 - 기본 Vue 화면이 나오는 테스트 구성 파일
