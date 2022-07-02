@@ -1,8 +1,6 @@
-# AWS Code Serise 구성 내용입니다.
+# Vue.js + AWS Code Serise 구성
 
-AWS Code Serise를 통해 특정 서버에 배포 
-
-빌드 내용은 appsepc.yml에 정의 
+AWS Code Serise를 통해 특정 서버에 배포 , 빌드 내용은 appsepc.yml에 정의 
 
 appspec.yml 에 정의된 파이프 라인에 따라 빌드 및 배포 실행 
 
